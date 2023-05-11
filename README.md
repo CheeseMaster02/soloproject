@@ -1,0 +1,2 @@
+# soloproject
+Learning MERN Stack
